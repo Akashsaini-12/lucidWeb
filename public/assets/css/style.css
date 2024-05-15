@@ -1,0 +1,12 @@
+﻿.avatar.lg {
+  width: 120px !important;
+  height: auto !important;
+  margin-left: -4px;
+}
+.auth-main::before{
+  background: none !important;
+}
+.auth-box{
+  display: block;
+  margin: auto !important;
+}
